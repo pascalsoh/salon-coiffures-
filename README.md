@@ -16,7 +16,7 @@ Staff ranking (barbers), displaying their names, photos, and ranks.
 The dashboard also includes dynamic filters by month, hour, and service type (shave, haircut) for a personalized data exploration experience.
 
 The goal is to provide a clear, visual, and actionable analysis of the salon’s business performance, to support decision-making and operational adjustments.
-
+![Hair Salon](patient_emergence_visit.png)
 
  **Tableau de bord Power BI - Salon de coiffure**
 Ce tableau de bord interactif Power BI fournit une vue d’ensemble complète des performances d’un salon de coiffure. Il permet de suivre les indicateurs clés tels que :

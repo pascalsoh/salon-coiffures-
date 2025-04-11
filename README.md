@@ -1,24 +1,5 @@
-**💈 Power BI Dashboard – Hair Salon**
-This interactive Power BI dashboard provides a comprehensive overview of a hair salon’s performance. It enables tracking of key indicators such as:
-
-Number of clients vs forecast, with achievement rate.
-
-Revenue performance compared to forecast, including variance in value and percentage.
-
-Daily revenue analysis, showing variations by day of the week.
-
-Monthly revenue trend by hour, highlighting peak activity periods.
-
-Revenue breakdown by day type (working days vs weekends).
-
-Staff ranking (barbers), displaying their names, photos, and ranks.
-
-The dashboard also includes dynamic filters by month, hour, and service type (shave, haircut) for a personalized data exploration experience.
-
-The goal is to provide a clear, visual, and actionable analysis of the salon’s business performance, to support decision-making and operational adjustments.
-![Hair Salon](patient_emergence_visit.png)
-
  **Tableau de bord Power BI - Salon de coiffure**
+ 
 Ce tableau de bord interactif Power BI fournit une vue d’ensemble complète des performances d’un salon de coiffure. Il permet de suivre les indicateurs clés tels que :
 
 Nombre de clients vs prévisionnel avec taux de réalisation.
@@ -37,3 +18,24 @@ Le tableau de bord inclut également des filtres dynamiques par mois, heure, et 
 
 L’objectif est de fournir une analyse claire, visuelle et exploitable de la performance commerciale du salon, pour appuyer la prise de décision et les ajustements opérationnels.
 
+![Hair Salon](https://github.com/pascalsoh/salon-coiffures-/blob/d4486570d79b9065bb86bae18113b4f61c971de1/picture/Capture%20d'%C3%A9cran%202025-04-11%20192002.png)
+
+
+**💈 Power BI Dashboard – Hair Salon**
+This interactive Power BI dashboard provides a comprehensive overview of a hair salon’s performance. It enables tracking of key indicators such as:
+
+Number of clients vs forecast, with achievement rate.
+
+Revenue performance compared to forecast, including variance in value and percentage.
+
+Daily revenue analysis, showing variations by day of the week.
+
+Monthly revenue trend by hour, highlighting peak activity periods.
+
+Revenue breakdown by day type (working days vs weekends).
+
+Staff ranking (barbers), displaying their names, photos, and ranks.
+
+The dashboard also includes dynamic filters by month, hour, and service type (shave, haircut) for a personalized data exploration experience.
+
+The goal is to provide a clear, visual, and actionable analysis of the salon’s business performance, to support decision-making and operational adjustments.

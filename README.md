@@ -22,6 +22,7 @@ L’objectif est de fournir une analyse claire, visuelle et exploitable de la pe
 
 
 **💈 Power BI Dashboard – Hair Salon**
+
 This interactive Power BI dashboard provides a comprehensive overview of a hair salon’s performance. It enables tracking of key indicators such as:
 
 Number of clients vs forecast, with achievement rate.
